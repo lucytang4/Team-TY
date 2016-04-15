@@ -1,0 +1,35 @@
+Picture Lab Answers:
+
+A1: 
+1. 8 bits
+2. 3 bytes
+3. 307200
+
+A2:
+1. java.awt.Color[r=255,g=0,b=255]
+2. java.awt.Color[r=255,g=255,b=0]
+3. java.awt.Color[r=115,g=0,b=255]
+4. java.awt.Color[r=255,g=255,b=255]
+5. java.awt.Color[r=75,g=75,b=75]
+
+A3:
+1. 0
+2. 0
+3. 639
+4. 479
+5. top to bottom
+6. left to right
+7. yes
+
+A5:
+1. no
+2. yes
+3. no
+4. yes
+5. yes
+6. yes
+7. no
+
+A7:
+1. 90
+2. 90
